@@ -3,41 +3,41 @@
 	<url>
 		<loc>https://www.kito.jp.net</loc>
 		<priority>1.00</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/url</loc>
+		<loc>https://www.kito.jp.net/url.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/rule</loc>
+		<loc>https://www.kito.jp.net/rule.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/news</loc>
+		<loc>https://www.kito.jp.net/news.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/introduction</loc>
+		<loc>https://www.kito.jp.net/introduction.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/event</loc>
+		<loc>https://www.kito.jp.net/event.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/document</loc>
+		<loc>https://www.kito.jp.net/document.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 	<url>
-		<loc>https://www.kito.jp.net/activity</loc>
+		<loc>https://www.kito.jp.net/activity.html</loc>
 		<priority>0.50</priority>
-		<lastmod>2023-04-25</lastmod>
+		<lastmod>2023-05-05</lastmod>
 	</url>
 </urlset>
