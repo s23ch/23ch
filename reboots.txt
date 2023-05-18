@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /.vscode/
-
-Sitemap: https://www.kito.jp.net/sitemap.xml
