@@ -6,17 +6,7 @@
 		<lastmod>2023-06-11</lastmod>
 	</url>
 	<url>
-		<loc>https://kito.jp.net/404.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-06-11</lastmod>
-	</url>
-	<url>
-		<loc>https://kito.jp.net/URL.html</loc>
-		<priority>0.50</priority>
-		<lastmod>2023-06-11</lastmod>
-	</url>
-	<url>
-		<loc>https://kito.jp.net/Termsofuse.html</loc>
+		<loc>https://kito.jp.net/news.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-06-11</lastmod>
 	</url>
@@ -26,7 +16,17 @@
 		<lastmod>2023-06-11</lastmod>
 	</url>
 	<url>
-		<loc>https://kito.jp.net/news.html</loc>
+		<loc>https://kito.jp.net/Termsofuse.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-06-11</lastmod>
+	</url>
+	<url>
+		<loc>https://kito.jp.net/URL.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2023-06-11</lastmod>
+	</url>
+	<url>
+		<loc>https://kito.jp.net/404.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2023-06-11</lastmod>
 	</url>
